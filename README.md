@@ -38,7 +38,6 @@ From **data wrangling** to **modeling** and **visualization**, I adapt to variou
 - **BACE1 Compound Identification for Alzheimer’s Inhibitors (K-Means & LGBMClassifier)**  
 - **Frog Call Classification using Modified DenseNet-121 & DenseNet-169 (Published)**  
 - **Spatial Clustering of Plantation Areas Post-Eruption (K-Means & QGIS)**  
-- **Stock Price Volatility Analysis (ARCH)**  
 - **Heart Failure Prediction (Naive Bayes, SVM)**  
 
 *(More on my [GitHub Repositories](https://github.com/gumilangkharismaa))*
