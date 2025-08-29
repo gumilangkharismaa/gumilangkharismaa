@@ -16,6 +16,8 @@ From **data wrangling** to **modeling** and **visualization**, I adapt to variou
 ---
 
 ## 🏢 Work & Internship Experience  
+
+### 🔹 Data & Technical Experience  
 - **Analytics Support – PT Telkom Indonesia (Persero) Tbk (2024)**  
   - Developed ARIMA model to forecast Telkom’s stock price  
   - Analyzed stock price volatility (2023–2024) & identified key influencing factors  
@@ -25,13 +27,16 @@ From **data wrangling** to **modeling** and **visualization**, I adapt to variou
   - Assisted students in SQL, ERD, database normalization, and implementation  
   - Prepared lab materials & evaluated student assignments  
 
+---
+
+### 🔹 Media & Public Engagement Experience  
 - **Public Relations – Data Science ITERA (2023)**  
   - Managed content writing & promotional strategies for the program  
+  - Coordinated campaigns to improve program visibility  
 
 - **Young Journalist – Tribun Sumsel (2020–2021)**  
-  - Content creation, event coverage, and digital journalism  
-
----
+  - Produced news articles, conducted event coverage, and digital reporting  
+  - Strengthened writing and communication skills under tight deadlines  
 
 ## 📚 Projects & Research  
 - **Brain Tumor Classification with CNN-ResNet-50 & PSO** (2025)  
