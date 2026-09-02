@@ -1,7 +1,5 @@
 # Hi, I'm Kharisma Gumilang 👋
 
-**Corporate Strategy & FP&A | Business Performance | Data Analytics**
-
 I’m a **Data Science graduate from Institut Teknologi Sumatera** with an interest in the intersection of **business strategy, financial planning, performance management, and data analytics**.
 
 Currently working in **Corporate Strategy & FP&A**, I work with financial and operational data to support **Target vs. Actual analysis, performance monitoring, forecasting, P&L analysis, and management reporting**.
