@@ -1,59 +1,133 @@
-# Hi there, I'm Kharisma Gumilang 👋  
+# Hi, I'm Kharisma Gumilang 👋
 
-I’m a Data Science graduate from Institut Teknologi Sumatera with a strong passion for uncovering insights from diverse data types, including numerical, spatial, and image-based datasets. I have hands-on experience in **machine learning, deep learning, time series forecasting, and spatial analysis**.  
+**Corporate Strategy & FP&A | Business Performance | Data Analytics**
 
-From **data wrangling** to **modeling** and **visualization**, I adapt to various roles and challenges, bringing both technical expertise and a collaborative spirit to every project. Eager to keep learning and contribute in dynamic environments, I am committed to turning data into actionable insights.  
+I’m a **Data Science graduate from Institut Teknologi Sumatera** with an interest in the intersection of **business strategy, financial planning, performance management, and data analytics**.
 
----
+Currently working in **Corporate Strategy & FP&A**, I work with financial and operational data to support **Target vs. Actual analysis, performance monitoring, forecasting, P&L analysis, and management reporting**.
 
-## 🔧 Skills & Tools  
-- **Programming & Data:** Python, R, SQL, MySQL, PostgreSQL, Apache Spark  
-- **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, Deep Learning  
-- **Data Visualization:** Power BI, Tableau, Google Looker Studio, Matplotlib, Seaborn  
-- **Spatial & Big Data:** QGIS, GeoPandas, Spatial Analysis  
-- **Others:** Strong communication, leadership, teamwork, problem-solving  
+With a background in Data Science, I enjoy combining **business understanding and analytical skills** to transform complex data into clear insights that support better decision-making.
 
 ---
 
-## 🏢 Work & Internship Experience  
+## 🔧 Skills & Tools
 
-### 🔹 Data & Technical Experience  
-- **Analytics Support – PT Telkom Indonesia (Persero) Tbk (2024)**  
-  - Developed ARIMA model to forecast Telkom’s stock price  
-  - Analyzed stock price volatility (2023–2024) & identified key influencing factors  
-  - Maintained shareholder databases & supported corporate events  
+### Business & Analytics
 
-- **Teaching Assistant – Institut Teknologi Sumatera (2023–2024)**  
-  - Assisted students in SQL, ERD, database normalization, and implementation  
-  - Prepared lab materials & evaluated student assignments  
+* Corporate Strategy
+* Financial Planning & Analysis (FP&A)
+* Business Performance Analysis
+* Financial & Operational Analysis
+* Forecasting & Planning
+* Target vs. Actual Analysis
+* Data Analytics & Visualization
 
-## 📚 Projects & Research  
-- **Brain Tumor Classification with CNN-ResNet-50 & PSO** (2025)  
-- **BACE1 Compound Identification for Alzheimer’s Inhibitors (K-Means & LGBMClassifier)**  
-- **Frog Call Classification using Modified DenseNet-121 & DenseNet-169 (Published)**  
-- **Spatial Clustering of Plantation Areas Post-Eruption (K-Means & QGIS)**  
-- **Heart Failure Prediction (Naive Bayes, SVM)**
-- **Retail Sales Data Pipeline & ETL: Built an SQL-based ETL pipeline for retail sales data, improving data reliability and enabling efficient analytics**
+### Data & Programming
 
-*(More on my [GitHub Repositories](https://github.com/gumilangkharismaa))*
+* Python, SQL, R
+* MySQL, PostgreSQL
+* Excel, Google Sheets
+* Power BI, Tableau, Google Looker Studio
 
----
+### Machine Learning & AI
 
-## 🏆 Achievements  
-- **Best Presenter (2nd Place)** – National Science Seminar III Indonesia Open University (2024)  
-- **Speaker** – Organizational & Leadership Training (LKMM, 2024)  
-- **Participant** – BPJS Healthkathon Data Analyst Project (2023)  
+* Scikit-learn
+* PyTorch
+* TensorFlow
+* Machine Learning & Deep Learning
 
----
+### Spatial & Big Data
 
-## 📫 Connect With Me  
-- **Email:** gumilangkharisma03@gmail.com  
-- **LinkedIn:** [linkedin.com/in/kharisma-gumilang](https://www.linkedin.com/in/kharisma-gumilang)  
-- **GitHub:** [github.com/gumilangkharismaa](https://github.com/gumilangkharismaa)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gumilangkharismaa&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumilangkharismaa&layout=compact)  
+* QGIS
+* GeoPandas
+* Apache Spark
+* Spatial Analysis
 
 ---
 
-*"Turning data into actionable insights through analytics, AI, and collaboration."*
+## 🏢 Work Experience
+
+### 🔹 Corporate Strategy & FP&A — MBU Group
+
+**2026 – Present**
+
+* Conducted **weekly Target vs. Actual variance analysis** across multiple business entities to identify performance gaps and key drivers.
+* Performed **P&L vertical analysis** to evaluate cost structures, cost drivers, and business performance.
+* Developed **financial projections and business forecasts** using historical performance, operational drivers, and strategic assumptions.
+* Built analytical reporting and dashboards to monitor **production, sales, operational KPIs, and business performance**.
+* Synthesized financial and operational insights into materials supporting **management reviews, budgeting, RKAP, and strategic decision-making**.
+
+### 🔹 Data Analyst — MBU Group
+
+**2025 – 2026**
+
+* Built an end-to-end operational tracking system establishing a **Single Source of Truth (SSOT)** for slaughterhouse yield and inventory flow.
+* Developed dashboards covering **marketing, sales, purchase orders, and production performance**.
+* Performed data normalization and validation to improve **data consistency, accuracy, and reliability**.
+* Analyzed production, sales, inventory, and purchasing data to identify trends and support operational planning.
+* Automated recurring data processing and reporting workflows to improve reporting efficiency.
+
+### 🔹 Analytics Support — PT Telkom Indonesia (Persero) Tbk
+
+**2024**
+
+* Developed an **ARIMA model** for time-series forecasting of stock prices.
+* Analyzed stock price volatility and historical market trends.
+* Maintained shareholder databases and supported corporate activities.
+
+### 🔹 Teaching Assistant — Institut Teknologi Sumatera
+
+**2023 – 2024**
+
+* Assisted students in **SQL, ERD, database normalization, and database implementation**.
+* Prepared laboratory materials and evaluated student assignments.
+
+---
+
+## 📊 Featured Projects
+
+### 💼 Business Performance Analytics
+
+End-to-end analysis of **Target vs. Actual performance**, variance analysis, KPI monitoring, root-cause analysis, and management insights.
+
+### 💰 FP&A Financial Planning Model
+
+Financial planning case covering **P&L, budgeting, forecasting, scenario analysis, and financial performance evaluation**.
+
+### 📈 Target vs. Actual & PICA Analytics
+
+Business performance monitoring framework connecting **performance gaps → root causes → corrective actions (PICA)**.
+
+### 🐔 Poultry Business Analytics
+
+Business analytics case covering **DOC, feed, FCR, BW, mortality, selling price, yield, HPP, revenue, and profitability**.
+
+### 🤖 Data Science & Machine Learning
+
+Selected academic projects including:
+
+* Brain Tumor Classification with CNN-ResNet-50 & PSO
+* Frog Call Classification using Modified DenseNet-121 & DenseNet-169
+* BACE1 Compound Identification for Alzheimer’s Inhibitors
+* Heart Failure Prediction
+* Spatial Clustering of Plantation Areas Post-Eruption
+
+---
+
+## 🏆 Achievements
+
+* **2nd Place – Best Presenter**, National Science Seminar III, Indonesia Open University (2024)
+* **Speaker**, Organizational & Leadership Training (LKMM, 2024)
+* **Participant**, BPJS Healthkathon Data Analyst Project (2023)
+
+---
+
+## 📫 Connect With Me
+
+* **Email:** [gumilangkharisma03@gmail.com](mailto:gumilangkharisma03@gmail.com)
+* **LinkedIn:** [linkedin.com/in/kharisma-gumilang](https://www.linkedin.com/in/kharisma-gumilang)
+* **GitHub:** [github.com/gumilangkharismaa](https://github.com/gumilangkharismaa)
+
+---
+
+*"Turning data into business insights and better decisions."*
